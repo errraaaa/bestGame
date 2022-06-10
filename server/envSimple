@@ -1,0 +1,4 @@
+PORT=3001
+DN_NAME=yourGame
+DB_USER=admin
+DB_PASS=12345
